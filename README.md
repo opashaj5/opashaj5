@@ -1,11 +1,11 @@
-<h1 align="center">Hi there! :raising_hand_woman:</h1>
+<h1 align="center">Hi there! :sparkles:</h1>
 <h3 align="center"><img src="https://komarev.com/ghpvc/?username=opashaj5&label=Profile%20views&color=0e75b6&style=flat" alt="opashaj5"/></h3>
 
 ### A Little About Me
 
 - :woman_student: Current Software Engineer student with General Assembly
 - 🔭 My latest project is [Peas in a Pod](https://ornelapeas.herokuapp.com/users/home) - full CRUD application
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning [REACT](https://reactjs.org/)
 - 💬 Ask me about <code>let topics = [ "HTML", "CSS", "JavaScript"]</code>
 - ⚡ Fun fact: Visiting cute coffee shops is my favorite pastime :coffee:
 
