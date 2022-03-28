@@ -6,7 +6,7 @@
 - :woman_student: Current Software Engineer student with General Assembly
 - 🔭 My latest project is [Peas in a Pod](https://ornelapeas.herokuapp.com/users/home) - full CRUD application
 - 🌱 I’m currently learning **REACT**
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about <code>let topics = [ "HTML", "CSS", "JavaScript"]</code>
 - ⚡ Fun fact: Visiting cute coffee shops is my favorite pastime :coffee:
 
 ### Languages and Tools
@@ -32,9 +32,7 @@
 
 ### Connect with me
 
-<p align="left">
-<a href="https://codepen.io/opashaj5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="opashaj5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ornelapashaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ornelapashaj" height="30" width="40" /></a>
-<a href="https://codesandbox.com/opashaj5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="opashaj5" height="30" width="40" /></a>
-<a href="https://instagram.com/hellanela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hellanela" height="30" width="40" /></a>
-</p>
+<a href="https://codepen.io/opashaj5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="opashaj5" height="30" width="40"/></a>
+<a href="https://linkedin.com/in/ornelapashaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ornelapashaj" height="30" width="40"/></a>
+<a href="https://codesandbox.com/opashaj5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="opashaj5" height="30" width="40"/></a>
+<a href="https://instagram.com/hellanela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hellanela" height="30" width="40"/></a>
