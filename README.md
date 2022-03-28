@@ -6,7 +6,7 @@
 - :woman_student: Current Software Engineer student with General Assembly
 - 🔭 My latest project is [Peas in a Pod](https://ornelapeas.herokuapp.com/users/home) - full CRUD application
 - 🌱 I’m currently learning [REACT](https://reactjs.org/)
-- 💬 Ask me about <code>let topics = [ "HTML", "CSS", "JavaScript"]</code>
+- 💬 Ask me about <code>let topics = ["HTML", "CSS", "JavaScript"]</code>
 - ⚡ Fun fact: Visiting cute coffee shops is my favorite pastime :coffee:
 
 ### Languages and Tools
